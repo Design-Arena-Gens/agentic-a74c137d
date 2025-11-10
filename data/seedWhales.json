@@ -1,0 +1,23 @@
+[
+  {
+    "id": "alpha_wolf",
+    "displayName": "Alpha Wolf",
+    "bio": "Macro and elections specialist. High conviction, low frequency.",
+    "themes": ["Politics", "Elections", "Macro"],
+    "avatar": "https://polymarket.com/images/homepage-twitter-card.png"
+  },
+  {
+    "id": "sports_shark",
+    "displayName": "Sports Shark",
+    "bio": "Focus on NBA/NFL with model-driven edges.",
+    "themes": ["Sports", "NBA", "NFL"],
+    "avatar": "https://polymarket.com/images/homepage-twitter-card.png"
+  },
+  {
+    "id": "tech_oracle",
+    "displayName": "Tech Oracle",
+    "bio": "AI and tech news-driven trading.",
+    "themes": ["Technology", "AI", "Big Tech"],
+    "avatar": "https://polymarket.com/images/homepage-twitter-card.png"
+  }
+]
